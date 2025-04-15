@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>README Test</title>
+    <style>
+      .cursor {
+        animation: blink 1s infinite;
+      }
+
+      @keyframes blink {
+        0%,
+        100% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div align="right">
+      <h2>
+        <span id="typewriter"></span>
+        <span class="cursor">|</span>
+      </h2>
+    </div>
+
+    <script>
+      const text = "Tom Alvarez";
+      let i = 0;
+      const speed = 150;
+
+      function typeWriter() {
+        if (i < text.length) {
+          document.getElementById("typewriter").innerHTML += text.charAt(i);
+          i++;
+          setTimeout(typeWriter, speed);
+        }
+      }
+
+      window.onload = function () {
+        typeWriter();
+      };
+    </script>
+  </body>
+</html>
