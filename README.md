@@ -4,7 +4,7 @@
 
 Hi, and thanks for stopping by.
 
-I’m a self-taught junior **web developer** with a decade of experience working in education and shaping digital platforms through **UX research, design, and product management**. I'm passionate about bridging the gap between the code and user needs, and I hope you enjoy exploring my work so far.
+I’m a self-taught junior **web developer** with a decade of experience working in education, publishing, and shaping digital platforms through **UX research, design, and product management**. I'm passionate about bridging the gap between the code and user needs, and I hope you enjoy exploring my work so far.
 
 ⚙️Stack:
 
