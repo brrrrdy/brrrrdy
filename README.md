@@ -1,6 +1,6 @@
 Hi, and thanks for stopping by.
 
-I’m a product manager and engineer with a decade of experience working in higher education. I hope you enjoy exploring my work so far.
+I’m a product engineer and UX specialist with a decade of experience working in higher education and heritage. I hope you enjoy exploring my work so far.
 
 ⚙️ Stack:
 
